@@ -1,2 +1,2 @@
-# Arcade-Sim
-A small indie game which is created in Unity
+# Fireworks
+A small firework demo in VR for new years, created in Unity
